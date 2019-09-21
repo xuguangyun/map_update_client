@@ -1,0 +1,2 @@
+/usr/bin/ar qc libabsl_container.a  CMakeFiles/absl_container.dir/absl_container_header_only_dummy.cc.o
+/usr/bin/ranlib libabsl_container.a

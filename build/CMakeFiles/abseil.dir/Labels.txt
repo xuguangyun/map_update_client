@@ -1,0 +1,13 @@
+# Target labels
+ abseil
+# Source files and their labels
+/root/workspace/carto_client/build/CMakeFiles/abseil
+/root/workspace/carto_client/build/CMakeFiles/abseil.rule
+/root/workspace/carto_client/build/CMakeFiles/abseil-complete.rule
+/root/workspace/carto_client/build/abseil/src/abseil-stamp/abseil-install.rule
+/root/workspace/carto_client/build/abseil/src/abseil-stamp/abseil-mkdir.rule
+/root/workspace/carto_client/build/abseil/src/abseil-stamp/abseil-download.rule
+/root/workspace/carto_client/build/abseil/src/abseil-stamp/abseil-update.rule
+/root/workspace/carto_client/build/abseil/src/abseil-stamp/abseil-patch.rule
+/root/workspace/carto_client/build/abseil/src/abseil-stamp/abseil-configure.rule
+/root/workspace/carto_client/build/abseil/src/abseil-stamp/abseil-build.rule

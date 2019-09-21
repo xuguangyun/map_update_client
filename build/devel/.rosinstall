@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/workspace/carto_client/build/devel/setup.sh
